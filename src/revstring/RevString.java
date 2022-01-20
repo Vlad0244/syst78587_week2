@@ -21,6 +21,14 @@ public class RevString {
         for (int i = randomString.length() - 1; i >= 0; i--) {
             System.out.print(list1[i]);  
         }
+        /* This is a test 
+        ---------------
+        ------------
+        --------------
+        ---------
+        -----------------
+        ------------
+        */
     }
 
 }
